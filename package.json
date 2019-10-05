@@ -13,5 +13,9 @@
   },
   "devDependencies": {
     "@types/node": "^12.7.11"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EthanSK/get-node-modules-dir.git"
   }
 }
