@@ -1,1 +1,1 @@
-export declare function getNodeModulesDir(): string;
+export declare function getNodeModulesDir(isUnpackedAsarDir?: boolean): string;
